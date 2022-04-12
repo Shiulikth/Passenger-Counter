@@ -20,4 +20,11 @@ h2{
 button{
     border: none;
     padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: brown;
+    color: antiquewhite;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 200px;
+    margin: 5px;
 }
